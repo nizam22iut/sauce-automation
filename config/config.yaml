@@ -1,0 +1,5 @@
+# Basic configuration data
+
+base_url : "https://www.saucedemo.com"
+browser: "firefox"
+implicit_wait: 5
